@@ -18,13 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Musings of the Heatmizer
-email: daniel@heatertech.com
+title: Daniel Heater
 description: >- # this means to ignore newlines until "baseurl:"
   Deep end developer and legacy code wrangler.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: danieltheheater
 github_username:  dheater
 linkedin_username: dheater
 
